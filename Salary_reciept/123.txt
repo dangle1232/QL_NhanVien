@@ -1,0 +1,19 @@
+	Company Name, XYZ
+	Address:Xyz, Floor 4
+-----------------------------------------
+Employee ID		: 123
+Salary Of		: das-2122
+Generated On		: 12-03-2023
+-----------------------------------------
+Total Days		:32
+Total Present		:-3181
+Total Absent		: 3213
+Convence		 :Rs.23
+Medical		: Rs.2321
+PF		:Rs.1
+Gross Payment		: Rs.31321
+Net Salary		:Rs.-2289.25
+-----------------------------------------
+This is computer generated slip, not
+required any signature
+

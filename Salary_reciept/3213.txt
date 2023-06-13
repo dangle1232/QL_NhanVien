@@ -1,0 +1,17 @@
+	Company Name, XYZ
+	Address:Xyz, Floor 4
+-----------------------------------------
+Employee ID		: 3213
+Salary Of		: 21-212
+Generated On		: 13-05-2023
+-----------------------------------------
+Total Days		:31
+Total Present		:-290
+Total Absent		: 321
+Supp		 :Rs.321321
+Gross Payment		: Rs.3211
+Net Salary		:Rs.291282.61
+-----------------------------------------
+This is computer generated slip, not
+required any signature
+

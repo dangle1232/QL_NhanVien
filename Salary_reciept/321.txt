@@ -1,0 +1,19 @@
+	Company Name, XYZ
+	Address:Xyz, Floor 4
+-----------------------------------------
+Employee ID		: 321
+Salary Of		: Dec-2000
+Generated On		: 12-43-2023
+-----------------------------------------
+Total Days		:321
+Total Present		:309
+Total Absent		: 12
+Convence		 :Rs.21221212
+Medical		: Rs.321321
+PF		:Rs.2
+Gross Payment		: Rs.400000
+Net Salary		:Rs.20933222.33
+-----------------------------------------
+This is computer generated slip, not
+required any signature
+
